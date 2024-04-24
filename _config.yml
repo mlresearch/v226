@@ -1,0 +1,90 @@
+---
+booktitle: Proceedings of The 2nd Gaze Meets ML workshop
+shortname: GMML
+volume: '226'
+year: '2023'
+start: 2023-12-16
+end: 2023-12-16
+published: 2024-04-24
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: GMML-2023
+month: 0
+cycles: false
+bibtex_editor: Madu Blessing, Amarachi and Wu, Joy and Zario, Danca and Krupinski,
+  Elizabeth and Kashyap, Satyananda and Karargyris, Alexandros
+editor:
+- given: Amarachi
+  family: Madu Blessing
+- given: Joy
+  family: Wu
+- given: Danca
+  family: Zario
+- given: Elizabeth
+  family: Krupinski
+- given: Satyananda
+  family: Kashyap
+- given: Alexandros
+  family: Karargyris
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 2nd Gaze Meets ML workshop
+    Held in New Orleans, Louisiana, USA on 16 December 2023
+
+  Published as Volume 226 by the Proceedings of Machine Learning Research on 24 April 2024.
+
+  Volume Edited by:
+    Amarachi Madu Blessing
+    Joy Wu
+    Danca Zario
+    Elizabeth Krupinski
+    Satyananda Kashyap
+    Alexandros Karargyris
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 16 Dec
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v226"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v226
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v226
+email: ''
+conference:
+  name: Gaze Meets Machine Learning Workshop
+  url: https://gaze-meets-ml.github.io/
+  location: New Orleans, Louisiana, USA
+  dates:
+  - 2023-12-16
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v226/gaze.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v226/gaze.bib
