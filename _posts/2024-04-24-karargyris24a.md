@@ -24,7 +24,7 @@ lastpage: 288
 page: 280-288
 order: 280
 cycles: false
-bibtex_author: Karargyris, Alexandros and Ahmed, Shuaib and Anthony de Belen, Ryan
+bibtex_author: Karargyris, Alexandros and Ahmed, Shuaib and de Belen, Ryan Anthony
   and Banerjee, Bonny and Ibrayev, Timur and Kashyap, Satyananda and Krupinski, Elizabeth
   and Kuang, Chenyi and Madu, Paul and Madu, Amarachi and Makowski, Silvia and Mathew,
   Athul and Rolff, Tim and Shi, Bert and Wu, Joy and Zario, Danca
@@ -33,9 +33,9 @@ author:
   family: Karargyris
 - given: Shuaib
   family: Ahmed
-- given: Ryan
+- given: Anthony Ryan
   family: Belen
-  prefix: Anthony de
+  prefix: de
 - given: Bonny
   family: Banerjee
 - given: Timur
