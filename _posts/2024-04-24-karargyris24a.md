@@ -27,7 +27,7 @@ cycles: false
 bibtex_author: Karargyris, Alexandros and Ahmed, Shuaib and de Belen, Ryan Anthony
   and Banerjee, Bonny and Ibrayev, Timur and Kashyap, Satyananda and Krupinski, Elizabeth
   and Kuang, Chenyi and Madu, Paul and Madu, Amarachi and Makowski, Silvia and Mathew,
-  Athul and Rolff, Tim and Shi, Bert and Wu, Joy and Zario, Danca
+  Athul and Rolff, Tim and Shi, Bert and Wu, Joy and Danca, Zario
 author:
 - given: Alexandros
   family: Karargyris
