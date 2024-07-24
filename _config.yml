@@ -13,15 +13,15 @@ issn: 2640-3498
 id: GMML-2023
 month: 0
 cycles: false
-bibtex_editor: Madu Blessing, Amarachi and Wu, Joy and Zario, Danca and Krupinski,
+bibtex_editor: Madu Blessing, Amarachi and Wu, Joy and Zanca, Dario and Krupinski,
   Elizabeth and Kashyap, Satyananda and Karargyris, Alexandros
 editor:
 - given: Amarachi
   family: Madu Blessing
 - given: Joy
   family: Wu
-- given: Danca
-  family: Zario
+- given: Dario
+  family: Zanca
 - given: Elizabeth
   family: Krupinski
 - given: Satyananda

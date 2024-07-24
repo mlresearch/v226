@@ -17,7 +17,7 @@ Published as Volume 226 by the Proceedings of Machine Learning Research on 24 Ap
 Volume Edited by:
   * Amarachi Madu Blessing
   * Joy Wu
-  * Danca Zario
+  * Dario Zanca
   * Elizabeth Krupinski
   * Satyananda Kashyap
   * Alexandros Karargyris

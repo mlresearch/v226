@@ -27,7 +27,7 @@ cycles: false
 bibtex_author: Karargyris, Alexandros and Ahmed, Shuaib and Anthony de Belen, Ryan
   and Banerjee, Bonny and Ibrayev, Timur and Kashyap, Satyananda and Krupinski, Elizabeth
   and Kuang, Chenyi and Madu, Paul and Madu, Amarachi and Makowski, Silvia and Mathew,
-  Athul and Rolff, Tim and Shi, Bert and Wu, Joy and Zario, Danca
+  Athul and Rolff, Tim and Shi, Bert and Wu, Joy and Zanca, Dario
 author:
 - given: Alexandros
   family: Karargyris
@@ -60,8 +60,8 @@ author:
   family: Shi
 - given: Joy
   family: Wu
-- given: Danca
-  family: Zario
+- given: Dario
+  family: Zanca
 date: 2024-04-24
 address:
 container-title: Proceedings of The 2nd Gaze Meets ML workshop
