@@ -60,8 +60,8 @@ author:
   family: Shi
 - given: Joy
   family: Wu
-- given: Danca
-  family: Zario
+- given: Dario
+  family: Zanca
 date: 2024-04-24
 address:
 container-title: Proceedings of The 2nd Gaze Meets ML workshop
